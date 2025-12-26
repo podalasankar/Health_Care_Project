@@ -1,4 +1,4 @@
-CREATE TABLE avd-databricks-demo.temp_dataset.audit_log (
+CREATE TABLE esoteric-virtue-477914-t2.temp_dataset.audit_log (
     data_source STRING,
     tablename STRING,
     load_type STRING,
