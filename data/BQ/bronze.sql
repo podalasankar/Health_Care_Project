@@ -1,5 +1,6 @@
 -- Description: Create external tables for bronze dataset in BigQuery
 -- please do not forget to replace the bucket path
+-- test
 
 CREATE EXTERNAL TABLE IF NOT EXISTS `avd-databricks-demo.bronze_dataset.departments_ha` 
 OPTIONS (
